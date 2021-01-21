@@ -4,7 +4,13 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": ["3","2"]
+    "comments": [
+      {
+        "body"="string",
+        "userId"="int"
+      }
+    ]
+    
   },
   "Comment": {
     "body": "string",
