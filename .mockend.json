@@ -4,7 +4,5 @@
     "name": "string",
     "surName": "string",
     "date": "date",
-    "messages":[
-    ]
   }
 }
