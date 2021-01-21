@@ -1,19 +1,18 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": [
-      {
-        "body":"string",
-        "userId":"int"
-      }
-    ]
-    
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+    "Post": {
+        "title": "string",
+        "views": "int",
+        "published": "boolean",
+        "createdAt": "date",
+        "comments": [
+            {
+                "body": "string",
+                "userId": "int"
+            }
+        ]
+    },
+    "Comment": {
+        "body": "string",
+        "post": "Post"
+    }
 }
