@@ -1,11 +1,13 @@
 {
-  "User": {
-    "id": "int",
-    "name": "string",
-    "surName": "string",
-    "date": "date",
-     "messages": [
-    
-        ]
-  }
+    "User": {
+        "id": "int",
+        "name": "string",
+        "surName": "string",
+        "date": "date",
+        "messages": "Message[]"
+    },
+    "Message": {
+        "body": "string",
+        "user": "User"
+    }
 }
