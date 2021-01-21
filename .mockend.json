@@ -1,8 +1,8 @@
 {
   "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
+    "id": "1",
+    "name": "Grish",
+    "surName": "Sargsyan",
+    "date": "16/12/1994"
   }
 }
