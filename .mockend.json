@@ -6,8 +6,8 @@
     "createdAt": "date",
     "comments": [
       {
-        "body"="string",
-        "userId"="int"
+        "body":"string",
+        "userId":"int"
       }
     ]
     
