@@ -6,6 +6,7 @@
     "comments": "Comment[]"
   },
   "Comment": {
+    "useId":"int",
     "body": "string",
     "post": "Post"
   }
