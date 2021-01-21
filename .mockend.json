@@ -5,12 +5,6 @@
     "surName": "string",
     "date": "date",
     "messages":[
-    {
-    "id": "int",
-    "body":"string",
-    "date": "date",
-    "userId": "int"
-  }
     ]
   }
 }
