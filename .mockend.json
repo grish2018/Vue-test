@@ -3,13 +3,7 @@
         "title": "string",
         "views": "int",
         "published": "boolean",
-        "createdAt": "date",
-        "comments": [
-            {
-                "body": "string",
-                "userId": "int"
-            }
-        ]
+        "createdAt": "date"
     },
     "Comment": {
         "body": "string",
