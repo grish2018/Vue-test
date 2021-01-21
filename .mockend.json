@@ -5,8 +5,4 @@
         "surName": "string",
         "date": "date",
         "messages": "Message[]"
-    },
-    "Message": {
-        "body": "string"
-    }
 }
