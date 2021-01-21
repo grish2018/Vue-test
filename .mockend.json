@@ -4,11 +4,12 @@
     "name": "string",
     "surName": "string",
     "date": "date"
-    "messages":[
+    "messages":[{
     "id": "int",
     "body":"string",
     "date": "date",
     "userId": "int"
+  }
     ]
   }
 }
