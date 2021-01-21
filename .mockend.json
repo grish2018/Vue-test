@@ -3,7 +3,7 @@
     "id": "int",
     "name": "string",
     "surName": "string",
-    "date": "date"
+    "date": "date",
     "messages":[
     {
     "id": "int",
