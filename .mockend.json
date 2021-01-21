@@ -1,8 +1,8 @@
 {
-  "Post": {
-    "id": "1",
-    "name": "Grish",
-    "surName": "Sargsyan",
-    "date": "16/12/1994"
+  "User": {
+    "id": "int",
+    "name": "string",
+    "surName": "string",
+    "date": "date"
   }
 }
