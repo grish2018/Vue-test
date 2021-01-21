@@ -1,16 +1,13 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "name": "john"
-        },
-        {
-            "id": "4",
-            "name": "grr"
-        },
-        {
-            "id": "3",
-            "name": "crr"
-        }
-    ]
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
 }
